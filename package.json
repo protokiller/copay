@@ -111,7 +111,7 @@
     "verify:bitpay-desktop": "gpg --verify desktop/BitPay-linux.zip.sig desktop/BitPay-linux.zip; gpg --verify desktop/BitPay.exe.sig desktop/BitPay.exe; gpg --verify desktop/BitPay.dmg.sig desktop/BitPay.dmg"
   },
   "dependencies": {
-    "@angular/common": "5.2.10",
+    "@angular/common": "19.2.16",
     "@angular/compiler": "5.2.10",
     "@angular/compiler-cli": "5.2.10",
     "@angular/core": "5.2.10",
@@ -145,7 +145,7 @@
     "bitauth": "git+https://github.com/bitpay/bitauth.git#copay",
     "bitcore-wallet-client": "6.7.5",
     "buffer-compare": "1.1.1",
-    "cordova": "8.0.0",
+    "cordova": "13.0.0",
     "cordova-android": "7.1.0",
     "cordova-clipboard": "1.2.1",
     "cordova-custom-config": "5.0.2",
